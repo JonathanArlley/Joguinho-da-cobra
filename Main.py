@@ -2,7 +2,7 @@ import pygame
 import time
 import random
 
-#defini a velocidade jo player
+#defini a velocidade do player
 snake_speed = 20
 
 #defini o tamanho da janela que vai ser aberta 
