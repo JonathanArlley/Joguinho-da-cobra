@@ -3,6 +3,9 @@
 Esse é um projeto simples de um jogo que pensei parra sair do tédio e usar como portifolio 
 
 
+Obs: Pretendo melhorar esse código mas em algum momento do futuro
+
+
 
 Aqui está como o jogo funciona
 
